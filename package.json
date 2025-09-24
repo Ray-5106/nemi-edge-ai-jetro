@@ -46,9 +46,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/[your-username]/nemi-edge-ai-jetro.git"
+    "url": "https://github.com/Ray-5106/nemi-edge-ai-jetro.git"
   },
-  "homepage": "https://[your-username].github.io/nemi-edge-ai-jetro/",
+  "homepage": "https://Ray-5106.github.io/nemi-edge-ai-jetro/",
   "engines": {
     "node": ">=16.0.0",
     "npm": ">=8.0.0"
